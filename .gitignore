@@ -1,0 +1,8 @@
+datasets/
+generated_triplets/
+VN-celeb/
+.venv/
+misc/
+*.txt
+*.pt
+*.pth
